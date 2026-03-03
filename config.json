@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1A1E29",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A1E29",
+            "welcome-bonus-bg": "#1A1E29",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#404964",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#13151c",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#485168",
+            "yellow-button": "#F2C01A",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#1A1E29",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#1A1E29",
+            "faq-label": "#1A1E29",
+            "bg-footer": "#1A1E29",
+            "copyright": "#e7e7d5",
+            "starColor": "#F2C01A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3786"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3787",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "QuickWin Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3788",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "QuickWin Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "QuickWin Casino",
+                    "title": "QuickWin Casino — Best Online Casino in Canada | C$750 Bonus",
+                    "description": "Play at QuickWin Casino Canada with 4000+ slots, live dealers & C$750 welcome bonus + 200 free spins. Curaçao licensed. Join today!\n",
+                    "canonical": "casinoquickwin-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3789",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinoquickwin-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3790"
+                },
+                "hero": {
+                    "title": "Canada's Top-Rated Online Casino & Gaming Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3791",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3792",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Canada? We operate under a Curaçao Gaming Authority license, use SSL 256-bit encryption, and offer 24\/7 English-speaking support. Here's why Canadian players choose QuickWin:\n",
+                    "items": [
+                        "Licensed by Curaçao Gaming Authority (Rabidi N.V.) — certified fair play",
+                        "4000+ games from NetEnt, Pragmatic Play, Evolution Gaming & Microgaming",
+                        "100% welcome bonus up to C$750 + 200 free spins, min. deposit C$30",
+                        "Instant deposits via Interac, Visa, Skrill, Neteller & crypto",
+                        "SSL 256-bit encryption protecting 100% of transactions & player data",
+                        "24\/7 live chat & email support in English for Canadian players"
+                    ],
+                    "advantagesAfterText": "Join over 100,000 Canadian players enjoying certified RNG games and lightning-fast payouts. Our dedicated English-speaking team is available 24\/7\/365.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "QuickWin Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3793",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "QuickWin Casino App",
+                    "mobileGooglePlayImageTitle": "QuickWin Casino App",
+                    "mobileIosImageTitle": "QuickWin Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About QuickWin Casino",
+                        "description1": "We are a premier online gaming platform built specifically for Canadian players. Operating under Curaçao Gaming Authority certification, we offer 4000+ licensed games with a commitment to security, fairness, and fast payouts in CAD.\n",
+                        "items": [
+                            "Launched as a dedicated platform for Canadian online players",
+                            "Achieved Curaçao Gaming Authority certification for fair play",
+                            "Expanded game library to 4000+ titles from 45+ certified providers",
+                            "Introduced Interac payments for seamless CAD deposits in Canada"
+                        ],
+                        "description2": "We operate under Curaçao Gaming Control Board license via Rabidi N.V. Our platform uses SSL 256-bit encryption on all transactions. Every game is tested by independent auditors ensuring certified RNG outcomes and fair play.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3794",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue expanding our game portfolio with exclusive titles for Canadian players. Our responsible gaming tools, deposit limits, and self-exclusion options are always available. Join QuickWin today and experience premium CAD gaming!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for Canadian Players",
+                        "description": "<h2>Complete Game Portfolio for Canadian Players<\/h2>\n\n<p>At QuickWin Casino, we offer one of the most comprehensive gaming libraries available to Canadian players, featuring over 4,000 certified titles spanning every major category. Whether you enjoy spinning the reels on high-volatility slots, testing your strategy at live blackjack tables, or chasing life-changing progressive jackpots, our platform delivers an unmatched entertainment experience. Our game collection is powered by 45+ industry-leading software providers, including NetEnt, Pragmatic Play, Evolution Gaming, Microgaming, Play'n GO, and Yggdrasil, all rigorously tested by independent auditors for certified RNG outcomes and verified fairness. Canadian players can enjoy every title in CAD currency with seamless performance across desktop and mobile devices.<\/p>\n\n<h3>Slots: The Heart of Our Casino<\/h3>\n<p>Our slot collection is the largest category in our gaming library, with over 3,000 slot machine titles available to Canadian players at any time. We offer everything from classic 3-reel fruit machines to cutting-edge video slots with immersive storylines, cinematic graphics, and innovative bonus mechanics. Whether you're looking for low-volatility games with frequent smaller wins or high-volatility titles with massive jackpot potential, our curated portfolio has exactly what you need. Popular titles include Gates of Olympus by Pragmatic Play (RTP 96.5%), Starburst by NetEnt (RTP 96.09%), and Book of Dead by Play'n GO (RTP 96.21%) — all certified fair by independent testing laboratories. Canadian gamblers particularly enjoy our progressive jackpot slots, where prize pools regularly climb into the millions of CAD.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Slots (3000+ titles):<\/strong> Feature-rich games with free spins, multipliers, cascading reels, and buy-bonus options. Top providers include Pragmatic Play, NetEnt, Microgaming, Play'n GO, and Yggdrasil, each offering certified RTP rates averaging 96%+.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Slots:<\/strong> Traditional 3-reel and 5-reel machines ideal for Canadian players who prefer simple gameplay with straightforward paylines. Available from as little as C$0.10 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Titles like Mega Moolah by Microgaming offer life-changing jackpots historically paying out over C$10 million. Our progressive network grows daily with contributions from every eligible spin placed by Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Dynamic reel engines from Big Time Gaming offering up to 117,649 ways to win per spin. Popular Megaways titles include Bonanza, Extra Chilli, and Gonzo's Quest Megaways — all available to Canadian gamblers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cluster Pays & Tumble Mechanics:<\/strong> Modern slot formats where symbols fall in clusters rather than traditional paylines, featuring games like Sweet Bonanza (RTP 96.48%) and Jammin' Jars 2 — massively popular among Canadian online casino players.<\/li>\n<\/ul>\n\n<h3>Live Casino: Real Dealers, Real Thrills for Canadian Players<\/h3>\n<p>Our live casino section brings the authentic land-based casino atmosphere directly to Canadian players through high-definition video streaming technology powered by Evolution Gaming and Pragmatic Play Live. We host over 200 live tables available around the clock, staffed by professional English-speaking dealers trained to the highest industry standards. Every live game session is streamed in HD with crystal-clear audio and multiple camera angles, creating an immersive gaming experience you can enjoy from anywhere in Canada — whether at home on your desktop or on the go via mobile. Live betting limits range from C$1 minimum to C$50,000+ for VIP high-roller tables, ensuring our platform accommodates both casual Canadian players and serious high-stakes gamblers.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette (RTP 97.3%), American Roulette, French Roulette with La Partage rule, Speed Roulette for fast-paced action, and Lightning Roulette featuring random multipliers up to 500x. All tables available to Canadian players 24\/7.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seating for Canadian players, Lightning Blackjack with multiplied payouts, and VIP Blackjack with table limits up to C$10,000 per hand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for quick rounds, Baccarat Squeeze with enhanced suspense, and No Commission Baccarat. Available in standard and VIP rooms tailored to high-roller Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker Variants:<\/strong> Three Card Poker, Caribbean Stud Poker with a progressive jackpot exceeding C$250,000, Texas Hold'em Bonus, and Casino Hold'em — all with professional English-speaking dealers guiding every hand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Show Experiences:<\/strong> Crazy Time with multipliers up to 20,000x, Monopoly Live combining classic board game entertainment with real cash prizes, Mega Ball bingo-lottery hybrid, and Dream Catcher — uniquely entertaining formats loved by Canadian online gamblers.<\/li>\n<\/ul>\n\n<h3>Table Games: Strategy Meets Entertainment<\/h3>\n<p>Beyond live tables, our RNG-based table game collection gives Canadian players complete flexibility to enjoy their favourite classics at their own pace without waiting for a seat. We offer over 100 digital table game variants spanning roulette, blackjack, baccarat, craps, and video poker, all certified by independent auditors for fair, unbiased outcomes. Our table games are developed by certified providers including NetEnt, Microgaming, and Evolution Gaming's RNG division, ensuring smooth gameplay and authentic Vegas-style rules. Canadian players can practise strategies on demo modes before wagering real CAD funds, making our platform ideal for both beginners and experienced card game enthusiasts.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #e52536;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1b1e2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>European Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">97.30%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$1<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252936;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Classic Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.50%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$1<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1b1e2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">98.94%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$5<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252936;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Video Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.54%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$0.25<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1b1e2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">94–97%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$0.10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252936;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.50%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$5<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Mobile Gaming: Play Anywhere Across Canada<\/h3>\n<p>Our entire game library is fully optimised for mobile devices, allowing Canadian players to enjoy premium casino entertainment on the go through any iOS or Android smartphone or tablet. We use HTML5 technology across all games, ensuring flawless performance without the need to download any additional software or native app. Whether you're commuting in Toronto, relaxing in Vancouver, or enjoying the outdoors in Calgary, your full QuickWin Casino account — including all 4,000+ games, live dealer tables, banking, and bonus claiming — is available directly through your mobile browser. Our mobile platform adapts seamlessly to screen sizes from 320px onwards, delivering the same high-quality graphics and fast loading speeds as our desktop version.<\/p>\n\n<h3>Why Canadian Players Choose Our Gaming Platform<\/h3>\n<p>Canadian online gamblers demand a high-quality, trustworthy gaming experience with fast payouts in CAD, and that is precisely what we deliver at QuickWin Casino. Our platform is built around the needs of the Canadian market — from supporting Interac, the most popular Canadian payment method, to providing 24\/7 English-speaking customer support and pricing all games in Canadian dollars. We pride ourselves on maintaining an independently audited, fair gaming environment where every player has a genuine chance to win. Our responsible gaming tools — including deposit limits, session timers, and voluntary self-exclusion — reflect our commitment to protecting the well-being of every Canadian player who chooses to game with us. Join our growing community of Canadian players today and experience why QuickWin Casino is one of the most trusted online gaming platforms in the country.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for Canadian Players",
+                        "description": "<h2>Banking & Bonuses for Canadian Players<\/h2>\n\n<p>At QuickWin Casino, we have built one of the most player-friendly banking systems available at any online casino in Canada, ensuring that Canadian players can deposit in CAD and withdraw their winnings quickly, securely, and without unnecessary friction. We support over 15 payment methods tailored specifically to the Canadian market, including Interac — Canada's most trusted and widely used payment network — alongside international favourites like Visa, Mastercard, Skrill, Neteller, and cryptocurrencies such as Bitcoin and Ethereum. All financial transactions are secured by SSL 256-bit encryption, and our payment processing infrastructure complies with international PCI-DSS standards to keep every Canadian player's financial data completely safe at all times.<\/p>\n\n<h3>Deposit Methods Available to Canadian Players<\/h3>\n<p>Making a deposit at QuickWin Casino is a straightforward, fast process for Canadian players. Our minimum deposit amount is C$30, and most payment methods process deposits instantly, meaning your funds are available for gaming within seconds of confirming your transaction. Interac deposits are particularly popular among Canadian players due to their reliability and direct integration with virtually every major Canadian bank, including RBC, TD Bank, Scotiabank, BMO, and CIBC. E-wallet deposits via Skrill and Neteller are also instantaneous and offer an additional layer of privacy for players who prefer not to link their bank account directly. Cryptocurrency deposits via Bitcoin, Ethereum, and Litecoin are processed in under 10 minutes and come with zero transaction fees on our end.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Interac:<\/strong> Canada's premier instant banking service — direct deposits from any major Canadian bank account. Minimum C$30, maximum C$30,000 per transaction. Instant processing with no fees charged by QuickWin Casino.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> Credit and debit cards widely used by Canadian players. Deposits process instantly with limits from C$30 to C$3,000 per transaction. Accepted from all major Canadian card issuers including RBC Visa and TD Mastercard.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill & Neteller:<\/strong> Leading e-wallet solutions offering instant deposits with enhanced privacy. No bank details shared directly with the casino. Limits from C$10 to C$5,000, with zero processing fees for Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>MiFinity & EzeeWallet:<\/strong> Modern digital wallet solutions popular across Canadian online casinos. Instant deposits, competitive limits, and high security standards for protecting Canadian player funds.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Paysafecard:<\/strong> A prepaid voucher system ideal for Canadian players who prefer not to use bank accounts or cards. Available at retail locations across Canada, offering full spending control with a minimum deposit of C$10.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptocurrency (BTC, ETH, LTC, XRP):<\/strong> Bitcoin, Ethereum, Litecoin, and Ripple accepted for deposits and withdrawals. Processing time under 10 minutes, zero casino-side fees, and maximum anonymity for privacy-conscious Canadian gamblers.<\/li>\n<\/ul>\n\n<h3>How Fast Are Withdrawals at QuickWin Casino?<\/h3>\n<p>Withdrawal speed is one of the most important factors for Canadian players choosing an online casino, and at QuickWin Casino, we prioritise fast, hassle-free payouts. E-wallet withdrawals via Skrill and Neteller are typically processed within 24 hours of request confirmation, while Interac withdrawals to Canadian bank accounts process within 1-3 business days. Cryptocurrency withdrawals are among the fastest, with Bitcoin and Ethereum transactions completing within 30-60 minutes after our internal verification is complete. All withdrawal requests are subject to standard KYC (Know Your Customer) verification to comply with Curaçao Gaming Authority regulations — a one-time process that protects Canadian players' accounts from fraudulent activity.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #e52536;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1b1e2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Interac<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$30<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252936;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Up to 24h<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1b1e2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Up to 24h<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252936;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">30–60 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1b1e2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">3–5 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$52<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252936;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$30<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Welcome Bonus: C$750 + 200 Free Spins<\/h3>\n<p>Our welcome package is one of the most generous offers available at any online casino in Canada. New Canadian players who register and make their first deposit of at least C$30 receive a 100% match bonus up to C$750, effectively doubling their initial bankroll before a single spin. Additionally, we award 200 free spins, distributed as 20 free spins per day over the first 10 days after registration, giving Canadian players an extended opportunity to explore our slot library at no additional cost. The welcome bonus carries a 35x wagering requirement on the combined bonus and deposit amount, while the free spin winnings require 40x wagering — both of which are competitive compared to industry standards across Canadian online casinos. There is no bonus code required; your welcome package activates automatically upon your qualifying first deposit.<\/p>\n\n<h3>Ongoing Promotions & QuickWin Rewards Loyalty Program<\/h3>\n<p>We believe the relationship with our Canadian players extends far beyond the welcome bonus, which is why we offer a rich portfolio of ongoing promotions and a structured loyalty program designed to reward long-term play. Our weekly reload bonus offers Canadian players a 50% match up to C$1,050 plus 50 free spins every weekend (Friday to Sunday), with the same wagering terms as the welcome package. Additionally, our live casino cashback promotion returns 25% of net losses up to C$200 every week for Canadian players who enjoy live dealer games — a meaningful protection against downswings at the tables. Our QuickWin Rewards loyalty program operates on a 5-tier structure (Bronze, Silver, Gold, Platinum, Diamond), where Canadian players earn 1 loyalty point for every C$10 wagered and can exchange accumulated points for bonus cash, free spins, and exclusive rewards unlocked at higher VIP tiers.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Welcome Package:<\/strong> 100% match up to C$750 + 200 free spins (20\/day for 10 days). Minimum deposit C$30, wagering 35x (bonus+deposit), no bonus code required for Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekend Reload Bonus:<\/strong> 50% up to C$1,050 + 50 free spins every Friday–Sunday. Minimum deposit C$30 for free spins, C$75 to claim both bonus and spins together.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Casino Cashback:<\/strong> 25% weekly cashback on net losses up to C$200. Claimed every Monday for Canadian players who enjoy live roulette, blackjack, and baccarat.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>QuickWin Rewards — Bronze to Diamond:<\/strong> Earn 1 point per C$10 wagered. Redeem points for bonus cash or free spins. Higher tiers (Platinum, Diamond) unlock personalised promotions and dedicated account management for high-value Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Responsible Gaming Commitments:<\/strong> All bonuses come with transparent T&Cs. Canadian players can set deposit limits, loss limits, and session timers directly from their account dashboard — reinforcing our commitment to responsible gambling across Canada.<\/li>\n<\/ul>\n\n<h3>Security & Licensing: Why Canadian Players Trust QuickWin<\/h3>\n<p>Canadian players deserve a casino they can trust completely, and at QuickWin Casino, our security infrastructure is built to the highest industry standards. We hold a valid gaming licence from the Curaçao Gaming Control Board, issued to our parent company Rabidi N.V., which mandates strict operational standards covering player fund protection, fair game certification, and responsible gambling practices. Our platform employs SSL 256-bit encryption across every page — from registration and login to deposits and withdrawals — ensuring that no personal or financial data can be intercepted during transmission. All games in our library undergo regular independent RNG testing by certified auditors, guaranteeing that every outcome is genuinely random and unbiased for Canadian players. We are proud to provide a safe, regulated, and transparent online gambling environment that Canadian players can rely on every time they log in.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the welcome bonus at QuickWin Casino?",
+                            "answer": "Register your account and deposit minimum C$30 via Interac, Visa, or any supported method. Your 100% bonus up to C$750 activates automatically, plus 200 free spins (20\/day for 10 days). Wagering requirement is 35x bonus+deposit within 30 days. No bonus code needed for Canadian players.\n"
+                        },
+                        {
+                            "title": "What payment methods does QuickWin accept in Canada?",
+                            "answer": "We accept Interac, Visa, Mastercard, Skrill, Neteller, MiFinity, Paysafecard, and cryptocurrencies including Bitcoin, Ethereum, and Litecoin. Interac is the most popular option for Canadian players due to instant processing. All deposits and withdrawals are secured with SSL 256-bit encryption.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to Canadian bank accounts?",
+                            "answer": "Interac withdrawals to Canadian banks take 1–3 business days. E-wallets like Skrill and Neteller process within 24 hours. Crypto withdrawals (Bitcoin, Ethereum) complete in 30–60 minutes. Bank wire transfers take 3–5 business days. One-time KYC verification is required before your first withdrawal.\n"
+                        },
+                        {
+                            "title": "Is QuickWin Casino licensed and safe for Canadian players?",
+                            "answer": "Yes. QuickWin Casino operates under a Curaçao Gaming Control Board licence (Rabidi N.V.). We use SSL 256-bit encryption on all transactions and employ certified independent RNG auditors. Our platform is fully compliant with international gaming standards to ensure a safe experience for Canadian players.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile in Canada?",
+                            "answer": "Absolutely. All 200+ live dealer tables from Evolution Gaming and Pragmatic Play Live are fully optimised for mobile browsers on iOS and Android devices. No app download is required — simply log in via your smartphone browser. Canadian players enjoy HD streaming on all live roulette, blackjack, and baccarat tables.\n"
+                        },
+                        {
+                            "title": "What is the QuickWin Rewards loyalty program?",
+                            "answer": "QuickWin Rewards is our 5-tier VIP program (Bronze, Silver, Gold, Platinum, Diamond). Canadian players earn 1 loyalty point for every C$10 wagered. Points can be redeemed for bonus cash or free spins. Higher tiers unlock personalised promotions, better cashback rates, and dedicated account support.\n"
+                        },
+                        {
+                            "title": "What documents are needed for account verification?",
+                            "answer": "KYC verification requires a government-issued photo ID (passport or Canadian driver's licence), proof of address (utility bill or bank statement dated within 3 months), and proof of payment method. Verification typically completes within 24 hours. It is a one-time process protecting your account security.\n"
+                        },
+                        {
+                            "title": "Does QuickWin Casino offer responsible gambling tools?",
+                            "answer": "Yes. Canadian players can set deposit limits, loss limits, wager limits, and session time reminders directly from their account dashboard. Self-exclusion options are also available for players who need a break. Our 24\/7 support team in English assists with all responsible gambling requests at any time.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
